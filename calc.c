@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+// Main Function
 int main(){
    char Operator;
    float num1, num2, result = 0;
